@@ -26,7 +26,7 @@ This project analyzes sales data using Microsoft Excel to identify sales trends,
 - Regional Performance
 
 ## Project Files
-- Sales_Analysis.xlsx – Excel analysis and dashboard.
+- Professional Sales Dahboard.xlsx – Excel analysis and dashboard.
 - Dashboard_Screenshot.png – Dashboard preview.
 
 ## Conclusion
